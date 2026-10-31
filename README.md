@@ -1,1 +1,1 @@
-﻿# COMP 624 - Fraud Analytics Course
+# COMP 624 - Fraud Analytics Course
